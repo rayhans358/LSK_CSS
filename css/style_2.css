@@ -1,0 +1,26 @@
+body {
+  font-family: "century gothic";
+}
+
+.menu {
+  text-decoration: none;
+  color: #000000;
+}
+
+.slider {
+  height: 500px;
+  background: #C8A2C8;
+  font-size: 2rem;
+  font-family: "Poppins";
+}
+
+.content {
+  text-align: justify;
+  line-height: 20px;
+}
+
+.line {
+  background: #000000;
+  width: 100px;
+  height: 2px;
+}
